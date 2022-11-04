@@ -12,5 +12,6 @@ public class App
         System.out.println( "Hello @" );
         System.out.println( "Hello @1" );
         System.out.println( "Hello Tn$dc@!" );
+        System.out.println( "Hello @RTI" );
     }
 }
